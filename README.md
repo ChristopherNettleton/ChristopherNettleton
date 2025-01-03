@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @ChristopherNettleton
 - 🌌 IT Professional | Server Administrator | Azure Enthusiast
+- 📜 Certifications: Microsoft Azure Fundamentals (AZ-900),
+- 📜 Applied Skills: Administer Active Directory Domain Services,	Secure storage for Azure Files and Azure Blob Storage
+- 📘 Bachelors Of Science in Information Technology from AMU. 4.0 GPA Graduated Summa Cum Laude
 - 🖥️ Experienced in Windows Server 2019, Active Directory, DNS, DHCP, Virtual Machines and Nesting. 
 - 👀 I’m interested in Learning about Hybrid Cloud and Cloud Computing
 - 🌱 I’m currently learning Server and Cloud Administration
